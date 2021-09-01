@@ -1,1 +1,1 @@
-# kustomize-v4.2.0
+# rh-gitops-midstream kustomize
