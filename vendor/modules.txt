@@ -1,0 +1,252 @@
+# github.com/davecgh/go-spew v1.1.1
+## explicit
+github.com/davecgh/go-spew/spew
+# github.com/evanphx/json-patch v4.12.0+incompatible
+## explicit
+github.com/evanphx/json-patch
+# github.com/go-errors/errors v1.4.2
+## explicit; go 1.14
+github.com/go-errors/errors
+# github.com/go-openapi/jsonpointer v0.19.6
+## explicit; go 1.13
+github.com/go-openapi/jsonpointer
+# github.com/go-openapi/jsonreference v0.20.2
+## explicit; go 1.13
+github.com/go-openapi/jsonreference
+github.com/go-openapi/jsonreference/internal
+# github.com/go-openapi/swag v0.22.3
+## explicit; go 1.18
+github.com/go-openapi/swag
+# github.com/golang/protobuf v1.5.3
+## explicit; go 1.9
+github.com/golang/protobuf/proto
+github.com/golang/protobuf/ptypes
+github.com/golang/protobuf/ptypes/any
+github.com/golang/protobuf/ptypes/duration
+github.com/golang/protobuf/ptypes/timestamp
+# github.com/google/gnostic-models v0.6.8
+## explicit; go 1.18
+github.com/google/gnostic-models/compiler
+github.com/google/gnostic-models/extensions
+github.com/google/gnostic-models/jsonschema
+github.com/google/gnostic-models/openapiv2
+# github.com/google/go-cmp v0.5.9
+## explicit; go 1.13
+github.com/google/go-cmp/cmp
+github.com/google/go-cmp/cmp/internal/diff
+github.com/google/go-cmp/cmp/internal/flags
+github.com/google/go-cmp/cmp/internal/function
+github.com/google/go-cmp/cmp/internal/value
+# github.com/google/gofuzz v1.2.0
+## explicit; go 1.12
+github.com/google/gofuzz
+github.com/google/gofuzz/bytesource
+# github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
+## explicit; go 1.13
+github.com/google/shlex
+# github.com/imdario/mergo v0.3.6
+## explicit
+github.com/imdario/mergo
+# github.com/inconshreveable/mousetrap v1.1.0
+## explicit; go 1.18
+github.com/inconshreveable/mousetrap
+# github.com/josharian/intern v1.0.0
+## explicit; go 1.5
+github.com/josharian/intern
+# github.com/mailru/easyjson v0.7.7
+## explicit; go 1.12
+github.com/mailru/easyjson/buffer
+github.com/mailru/easyjson/jlexer
+github.com/mailru/easyjson/jwriter
+# github.com/monochromegane/go-gitignore v0.0.0-20200626010858-205db1a8cc00
+## explicit
+github.com/monochromegane/go-gitignore
+# github.com/pkg/errors v0.9.1
+## explicit
+github.com/pkg/errors
+# github.com/pmezard/go-difflib v1.0.0
+## explicit
+github.com/pmezard/go-difflib/difflib
+# github.com/spf13/cobra v1.7.0
+## explicit; go 1.15
+github.com/spf13/cobra
+# github.com/spf13/pflag v1.0.5
+## explicit; go 1.12
+github.com/spf13/pflag
+# github.com/stretchr/testify v1.8.1
+## explicit; go 1.13
+github.com/stretchr/testify/assert
+github.com/stretchr/testify/require
+# github.com/xlab/treeprint v1.2.0
+## explicit; go 1.13
+github.com/xlab/treeprint
+# go.starlark.net v0.0.0-20200306205701-8dd3e2ee1dd5
+## explicit; go 1.13
+go.starlark.net/internal/compile
+go.starlark.net/internal/spell
+go.starlark.net/resolve
+go.starlark.net/starlark
+go.starlark.net/starlarkstruct
+go.starlark.net/syntax
+# golang.org/x/sys v0.8.0
+## explicit; go 1.17
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/windows
+# golang.org/x/text v0.8.0
+## explicit; go 1.17
+golang.org/x/text/cases
+golang.org/x/text/internal
+golang.org/x/text/internal/language
+golang.org/x/text/internal/language/compact
+golang.org/x/text/internal/tag
+golang.org/x/text/language
+golang.org/x/text/transform
+golang.org/x/text/unicode/norm
+# google.golang.org/protobuf v1.30.0
+## explicit; go 1.11
+google.golang.org/protobuf/encoding/prototext
+google.golang.org/protobuf/encoding/protowire
+google.golang.org/protobuf/internal/descfmt
+google.golang.org/protobuf/internal/descopts
+google.golang.org/protobuf/internal/detrand
+google.golang.org/protobuf/internal/encoding/defval
+google.golang.org/protobuf/internal/encoding/messageset
+google.golang.org/protobuf/internal/encoding/tag
+google.golang.org/protobuf/internal/encoding/text
+google.golang.org/protobuf/internal/errors
+google.golang.org/protobuf/internal/filedesc
+google.golang.org/protobuf/internal/filetype
+google.golang.org/protobuf/internal/flags
+google.golang.org/protobuf/internal/genid
+google.golang.org/protobuf/internal/impl
+google.golang.org/protobuf/internal/order
+google.golang.org/protobuf/internal/pragma
+google.golang.org/protobuf/internal/set
+google.golang.org/protobuf/internal/strs
+google.golang.org/protobuf/internal/version
+google.golang.org/protobuf/proto
+google.golang.org/protobuf/reflect/protodesc
+google.golang.org/protobuf/reflect/protoreflect
+google.golang.org/protobuf/reflect/protoregistry
+google.golang.org/protobuf/runtime/protoiface
+google.golang.org/protobuf/runtime/protoimpl
+google.golang.org/protobuf/types/descriptorpb
+google.golang.org/protobuf/types/known/anypb
+google.golang.org/protobuf/types/known/durationpb
+google.golang.org/protobuf/types/known/timestamppb
+# gopkg.in/inf.v0 v0.9.1
+## explicit
+gopkg.in/inf.v0
+# gopkg.in/yaml.v2 v2.4.0
+## explicit; go 1.15
+gopkg.in/yaml.v2
+# gopkg.in/yaml.v3 v3.0.1
+## explicit
+gopkg.in/yaml.v3
+# k8s.io/kube-openapi v0.0.0-20230601164746-7562a1006961
+## explicit; go 1.19
+k8s.io/kube-openapi/pkg/internal
+k8s.io/kube-openapi/pkg/internal/third_party/go-json-experiment/json
+k8s.io/kube-openapi/pkg/validation/spec
+# sigs.k8s.io/kustomize/api v0.14.0
+## explicit; go 1.20
+sigs.k8s.io/kustomize/api/filters/annotations
+sigs.k8s.io/kustomize/api/filters/fieldspec
+sigs.k8s.io/kustomize/api/filters/filtersutil
+sigs.k8s.io/kustomize/api/filters/fsslice
+sigs.k8s.io/kustomize/api/filters/iampolicygenerator
+sigs.k8s.io/kustomize/api/filters/imagetag
+sigs.k8s.io/kustomize/api/filters/labels
+sigs.k8s.io/kustomize/api/filters/nameref
+sigs.k8s.io/kustomize/api/filters/namespace
+sigs.k8s.io/kustomize/api/filters/patchjson6902
+sigs.k8s.io/kustomize/api/filters/patchstrategicmerge
+sigs.k8s.io/kustomize/api/filters/prefix
+sigs.k8s.io/kustomize/api/filters/refvar
+sigs.k8s.io/kustomize/api/filters/replacement
+sigs.k8s.io/kustomize/api/filters/replicacount
+sigs.k8s.io/kustomize/api/filters/suffix
+sigs.k8s.io/kustomize/api/filters/valueadd
+sigs.k8s.io/kustomize/api/hasher
+sigs.k8s.io/kustomize/api/ifc
+sigs.k8s.io/kustomize/api/image
+sigs.k8s.io/kustomize/api/internal/accumulator
+sigs.k8s.io/kustomize/api/internal/builtins
+sigs.k8s.io/kustomize/api/internal/generators
+sigs.k8s.io/kustomize/api/internal/git
+sigs.k8s.io/kustomize/api/internal/kusterr
+sigs.k8s.io/kustomize/api/internal/localizer
+sigs.k8s.io/kustomize/api/internal/plugins/builtinconfig
+sigs.k8s.io/kustomize/api/internal/plugins/builtinhelpers
+sigs.k8s.io/kustomize/api/internal/plugins/execplugin
+sigs.k8s.io/kustomize/api/internal/plugins/fnplugin
+sigs.k8s.io/kustomize/api/internal/plugins/loader
+sigs.k8s.io/kustomize/api/internal/plugins/utils
+sigs.k8s.io/kustomize/api/internal/target
+sigs.k8s.io/kustomize/api/internal/utils
+sigs.k8s.io/kustomize/api/internal/validate
+sigs.k8s.io/kustomize/api/konfig
+sigs.k8s.io/kustomize/api/konfig/builtinpluginconsts
+sigs.k8s.io/kustomize/api/krusty
+sigs.k8s.io/kustomize/api/krusty/localizer
+sigs.k8s.io/kustomize/api/kv
+sigs.k8s.io/kustomize/api/loader
+sigs.k8s.io/kustomize/api/provenance
+sigs.k8s.io/kustomize/api/provider
+sigs.k8s.io/kustomize/api/resmap
+sigs.k8s.io/kustomize/api/resource
+sigs.k8s.io/kustomize/api/testutils/localizertest
+sigs.k8s.io/kustomize/api/testutils/valtest
+sigs.k8s.io/kustomize/api/types
+# sigs.k8s.io/kustomize/cmd/config v0.11.3
+## explicit; go 1.20
+sigs.k8s.io/kustomize/cmd/config/completion
+sigs.k8s.io/kustomize/cmd/config/configcobra
+sigs.k8s.io/kustomize/cmd/config/ext
+sigs.k8s.io/kustomize/cmd/config/internal/commands
+sigs.k8s.io/kustomize/cmd/config/internal/commands/internal/k8sgen/pkg/api/resource
+sigs.k8s.io/kustomize/cmd/config/internal/generateddocs/api
+sigs.k8s.io/kustomize/cmd/config/internal/generateddocs/commands
+sigs.k8s.io/kustomize/cmd/config/internal/generateddocs/tutorials
+sigs.k8s.io/kustomize/cmd/config/runner
+# sigs.k8s.io/kustomize/kyaml v0.14.3
+## explicit; go 1.20
+sigs.k8s.io/kustomize/kyaml/comments
+sigs.k8s.io/kustomize/kyaml/errors
+sigs.k8s.io/kustomize/kyaml/ext
+sigs.k8s.io/kustomize/kyaml/fieldmeta
+sigs.k8s.io/kustomize/kyaml/filesys
+sigs.k8s.io/kustomize/kyaml/fn/runtime/container
+sigs.k8s.io/kustomize/kyaml/fn/runtime/exec
+sigs.k8s.io/kustomize/kyaml/fn/runtime/runtimeutil
+sigs.k8s.io/kustomize/kyaml/fn/runtime/starlark
+sigs.k8s.io/kustomize/kyaml/internal/forked/github.com/go-yaml/yaml
+sigs.k8s.io/kustomize/kyaml/internal/forked/github.com/qri-io/starlib/util
+sigs.k8s.io/kustomize/kyaml/kio
+sigs.k8s.io/kustomize/kyaml/kio/filters
+sigs.k8s.io/kustomize/kyaml/kio/kioutil
+sigs.k8s.io/kustomize/kyaml/openapi
+sigs.k8s.io/kustomize/kyaml/openapi/kubernetesapi
+sigs.k8s.io/kustomize/kyaml/openapi/kubernetesapi/v1_21_2
+sigs.k8s.io/kustomize/kyaml/openapi/kustomizationapi
+sigs.k8s.io/kustomize/kyaml/order
+sigs.k8s.io/kustomize/kyaml/pathutil
+sigs.k8s.io/kustomize/kyaml/resid
+sigs.k8s.io/kustomize/kyaml/runfn
+sigs.k8s.io/kustomize/kyaml/sets
+sigs.k8s.io/kustomize/kyaml/sliceutil
+sigs.k8s.io/kustomize/kyaml/utils
+sigs.k8s.io/kustomize/kyaml/yaml
+sigs.k8s.io/kustomize/kyaml/yaml/internal/k8sgen/pkg/labels
+sigs.k8s.io/kustomize/kyaml/yaml/internal/k8sgen/pkg/selection
+sigs.k8s.io/kustomize/kyaml/yaml/internal/k8sgen/pkg/util/errors
+sigs.k8s.io/kustomize/kyaml/yaml/internal/k8sgen/pkg/util/sets
+sigs.k8s.io/kustomize/kyaml/yaml/internal/k8sgen/pkg/util/validation
+sigs.k8s.io/kustomize/kyaml/yaml/internal/k8sgen/pkg/util/validation/field
+sigs.k8s.io/kustomize/kyaml/yaml/merge2
+sigs.k8s.io/kustomize/kyaml/yaml/merge3
+sigs.k8s.io/kustomize/kyaml/yaml/schema
+sigs.k8s.io/kustomize/kyaml/yaml/walk
+# sigs.k8s.io/yaml v1.3.0
+## explicit; go 1.12
+sigs.k8s.io/yaml
