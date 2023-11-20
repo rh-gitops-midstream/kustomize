@@ -1,1 +1,0 @@
-# rh-gitops-midstream kustomize
